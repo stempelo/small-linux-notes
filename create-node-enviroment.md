@@ -6,7 +6,8 @@ command -v nvm
 
 nvm ls-remote
 
-nvm install VERSION
+choose the version, then:
+nvm install VERSION (nvm install 14.17.0)
 
 install yarn
 
